@@ -1,0 +1,6 @@
+<svg>
+  <image id="background" pointer-events="visible"/>
+  <textarea id="quote" pointer-events="visible" />
+  <text id="clock" />
+  <text id="heart">♥ --</text>
+</svg>

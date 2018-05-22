@@ -1,0 +1,21 @@
+{
+  "fitbit": {
+    "appUUID": "ad880725-a43c-4d77-b080-40c9d2dd7681",
+    "appType": "clockface",
+    "appDisplayName": "Daily Quotes",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Daily Quotes"
+      }
+    }
+  }
+}

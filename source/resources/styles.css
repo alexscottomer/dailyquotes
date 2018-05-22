@@ -1,0 +1,42 @@
+/* Styles for tags */
+text {
+  fill: white;
+  font-family: "System-Bold";
+  text-length: 32;
+}
+
+/* Styles for specific elements */
+#background {
+  height: 100%;
+  width: 100%;
+  x: 0;
+  y: 0;
+}
+
+#quote {
+  fill: white;
+  font-family: "System-Bold";
+  font-size: 20;
+  text-length: 128;
+  height: 50%-25;
+  width: 100%-5;
+  x: 5;
+  y: 5;
+}
+
+#clock {
+  font-size: 90;
+  text-anchor: middle;
+  width: 250;
+  x: 50%;
+  y: 50%+25;
+}
+
+#heart {
+  font-size: 40;
+  width: 120;
+  x: 5;
+  y: 100%-20;
+}
+
+
